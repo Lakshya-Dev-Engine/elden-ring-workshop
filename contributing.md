@@ -163,6 +163,6 @@ running the loader without administrator rights, or from another overlay
 
 ---
 
-*elden-ring-workshop · Updated 2026-10-24 · Shared under the MIT License*
+*elden-ring-workshop · Updated 2026-10-25 · Shared under the MIT License*
 
-<!-- last reviewed 2026-10-24 -->
+<!-- last reviewed 2026-10-25 -->
